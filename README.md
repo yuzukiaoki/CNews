@@ -11,7 +11,7 @@ APP包含各種論壇基本功能，私信、加好友、收藏等等功能，�
 ![10](https://user-images.githubusercontent.com/69618355/128817435-6d816d33-3c36-497b-899f-d49af9f8da8c.png)
 ![13](https://user-images.githubusercontent.com/69618355/128817439-22157ec8-6d49-4540-a953-956224dce617.png)
 ![15](https://user-images.githubusercontent.com/69618355/128817446-dd526bb2-3705-4fc3-8264-042826584a0d.png)
-![23](https://user-images.githubusercontent.com/69618355/128817457-c7838708-27d1-414d-9c12-90e395e5c3ad.png)
+![23](https://user-images.githubusercontent.com/69618355/128818557-419ae285-c6b4-4ad4-b956-d9c44fe26bc5.png)
 ![26](https://user-images.githubusercontent.com/69618355/128817460-b5822b11-c409-4ed5-8e42-9e7196692c0e.png)
 ![39](https://user-images.githubusercontent.com/69618355/128817470-77f081fb-35ab-45d2-b144-2af5b78f8539.png)
 ![49](https://user-images.githubusercontent.com/69618355/128817474-e8849713-64db-4402-901a-97b7eb0f36c6.png)
